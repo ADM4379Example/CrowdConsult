@@ -16,7 +16,7 @@ namespace Adm4379Example.Pages
         {
             _logger = logger;
         }
-
+//comment
         public void OnGet()
         {
         }
